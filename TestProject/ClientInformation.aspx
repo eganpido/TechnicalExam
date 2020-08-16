@@ -10,7 +10,7 @@
             border-style: solid;
         }
     </style>
-    <h1>TECHNICAL EXAM</h1>
+    <h1>Client Information</h1>
 </head>
 <body>
     <form id="form1" runat="server">  
